@@ -11,7 +11,7 @@ When entering an e-commerce website, click the extension icon and select "Analyz
 
 
 ## Credits
-Thanks to the work of Tech Dreamers team., we have a full dataset to develop classification models to detect dark patterns as well as their categories.
+Thanks to the work of Tech Dreamers team., we have a full dataset to develop classification models to detect dark patterns as well as their categories,
 from  students  of Dhirajlal Gandhi College Of technology ,Tamil Nadu 
 
 
